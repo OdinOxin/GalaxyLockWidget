@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="msg">GalaxyLockWidget steht jetzt zur Verfügung.</string>
+    <string name="updating">Aktualisieren&#8230;</string>
+    <string name="no_alarm">Kein Wecker gestellt</string>
+</resources>
